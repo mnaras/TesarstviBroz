@@ -6002,11 +6002,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mnara\\OneDrive\\Plocha\\WebAdam\\Tesarstvi\\Tesarstvi\\Tesarstvi.csproj",
+      "projectUniqueName": "C:\\Users\\mnara\\OneDrive\\Plocha\\Tesarstvi\\Tesarstvi\\Tesarstvi.csproj",
       "projectName": "Tesarstvi",
-      "projectPath": "C:\\Users\\mnara\\OneDrive\\Plocha\\WebAdam\\Tesarstvi\\Tesarstvi\\Tesarstvi.csproj",
+      "projectPath": "C:\\Users\\mnara\\OneDrive\\Plocha\\Tesarstvi\\Tesarstvi\\Tesarstvi.csproj",
       "packagesPath": "C:\\Users\\mnara\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mnara\\OneDrive\\Plocha\\WebAdam\\Tesarstvi\\Tesarstvi\\obj\\",
+      "outputPath": "C:\\Users\\mnara\\OneDrive\\Plocha\\Tesarstvi\\Tesarstvi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
